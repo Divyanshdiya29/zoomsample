@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594264256898",
+    "project_id": "vediostream-e27d6",
+    "storage_bucket": "vediostream-e27d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594264256898:android:6bb1dcb0039c5c72f89f9b",
+        "android_client_info": {
+          "package_name": "com.example.vediostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594264256898-qhu1p1tfg5vgc0769lb3kutp25rsi70k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vediostream",
+            "certificate_hash": "b600f03a071ff8f036de1ca4215102ac28278b49"
+          }
+        },
+        {
+          "client_id": "594264256898-rao8bp9vkorl70bs5eu7fg61fr17bd2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GFq-SDueSp5-1XuMWlr0b54cvXolBIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594264256898-2sn61b1v0seqt32s1h05pa3lmg9vnqm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
